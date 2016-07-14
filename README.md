@@ -1,6 +1,8 @@
 # emoji-finder
 
-(A workflow for [Alfred](https://www.alfredapp.com/) v3) Find relevant emoji from text, by [understanding what you type using deep learning](http://getdango.com/).
+(A workflow for [Alfred](https://www.alfredapp.com/) v3)
+
+Find relevant emoji from text, by [understanding what you type using deep learning](http://getdango.com/).
 
 > How could one simple emoji express such a mixed feeling? I use ten.  
 > 😂😅😆😄😝😜🙈😈😛😹
@@ -9,8 +11,8 @@
 
 Download: [Emoji-Finder.alfredworkflow](https://github.com/amio/alfred-workflow-emoji-finder/releases/download/v1.0/Emoji-Finder.alfredworkflow)
 
-## And one more thing
+### And one more thing
 
 if you just want one emoji, use <kbd>CTRL</kbd> + <kbd>CMD</kbd> + <kbd>Space</kbd>:
 
-<p style="text-align: center"><img src="https://cloud.githubusercontent.com/assets/215282/16828372/aa15c596-49c1-11e6-9189-8fbd33e96ca4.png" height="324px" /></p>
+<p align="center"><img src="https://cloud.githubusercontent.com/assets/215282/16828680/a1b42142-49c4-11e6-9922-dfbc008d1a58.png" height="385px" /></p>
